@@ -11,7 +11,7 @@ disable:
 restart:
 	heroku ps:restart web -a assume-bot
 logs:
-	heroku logs -n 100 -a assume-bot
+	heroku logs -n 100 -a exonzero-bot
 start:
 	npm start
 archive:
@@ -21,7 +21,7 @@ restore:
 mute:
 	node src/mute.js
 bash:
-	heroku run bash -a assume-bot
+	heroku run bash -a assum-bot
 logout:
 	node src/login.js --logout
 debug: disable start

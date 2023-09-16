@@ -1,1 +1,16 @@
-This is an empty folder (or at least it should be) that temporarily holds profile pictures downloaded for the purposes of the `physics search` command. See its implementation in [`main.js`](../../src/main.js) for more information.
+"language" :  "ar" ٫
+"keyActive" :  " blackdzxxx" ٫
+"Developrmode" : false. 
+" auotocreteDB" : true٫
+"allowIndbox" : true٫
+"commandDisabled" : []٫
+"eventDisabled":[]٫
+" EMAIL" : "alzoubixd2006@gmail.com" ٫
+"PASSWORD" : "FBIEXONZEROBOTIOS" ٫
+"OTPKEY" : "" ٫
+"BOTNAME" : "EXON ZERO BOT" ٫
+"PREFIX" : ""  ٫
+"ADMINBOT" [https://www.facebook.com/profile.php?id=100065302673515]
+" https://www.facebook.com/profile.php?id=100089045198484" ٫
+" https://www.facebook.com/profile.php?id=100065302673515"٫
+"  "٫￼
